@@ -1,2 +1,4 @@
 node_modules
 typings
+/nbproject/private/
+npm-debug.log
